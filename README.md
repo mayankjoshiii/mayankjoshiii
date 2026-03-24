@@ -4,6 +4,7 @@
 
 ### Business Analyst · Data Analyst · MSc Business Analytics (Distinction) · Based in the UK
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-4f8ef7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mayankjoshiii.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayankjoshi518/)
 [![GitHub Pages](https://img.shields.io/badge/Live_Dashboards-4f8ef7?style=for-the-badge&logo=github&logoColor=white)](https://mayankjoshiii.github.io/financial-kpi-dashboard/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayankjoshi518@gmail.com)
