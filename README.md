@@ -2,93 +2,202 @@
 
 # Mayank Joshi
 
-### Business Analyst · Data Analyst · MSc Business Analytics (Distinction) · Based in the UK
+**Business Analyst · Data Analyst · MSc Business Analytics (Distinction)**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4f8ef7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mayankjoshiii.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayankjoshi518/)
-[![GitHub Pages](https://img.shields.io/badge/Live_Dashboards-4f8ef7?style=for-the-badge&logo=github&logoColor=white)](https://mayankjoshiii.github.io/financial-kpi-dashboard/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayankjoshi518@gmail.com)
+Swansea University · Based in the UK · Open to Worldwide Opportunities
+
+[![Portfolio](https://img.shields.io/badge/Portfolio_Site-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mayankjoshi-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayankjoshi518/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayankjoshi518@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+## About
 
-MSc Business Analytics graduate (Distinction, Swansea University — January 2026) with 4+ years of industry experience in business analysis, data analytics, and process improvement. I combine strong financial literacy with hands-on data skills to turn complex datasets into clear business decisions.
-
-- Skilled in **SQL, Python, Tableau, Plotly.js, Excel, and scikit-learn**
-- Background in **Enterprise Mobility, Financial Analysis, and Operations**
-- Daily tools: **Notion, GitHub, Claude, ChatGPT** — deeply follows AI/tech
-- Open to BA/DA roles — any industry, any location worldwide
+Business Analyst and Data Analyst with an MSc in Business Analytics (Distinction, Swansea University — January 2026) and 4+ years of industry experience across enterprise mobility, financial analysis, and operations. I build end-to-end analytical solutions — from data extraction and statistical modelling to interactive dashboards that drive business decisions. Every project below has a **live interactive demo** you can explore right now.
 
 ---
 
-## Skills
+## Technical Skills
 
-**Data & Analytics**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Visualisation**
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square)
-
-**Tools & Platforms**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-
-**Methodology**
-
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=agile&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
+| Domain | Technologies |
+|---|---|
+| **Languages & Libraries** | Python · SQL · Pandas · NumPy · scikit-learn · JavaScript |
+| **Visualisation** | Plotly.js · Tableau · Matplotlib · Seaborn · Advanced Excel |
+| **ML & NLP** | Logistic Regression · Random Forest · K-Means · TF-IDF · Sentiment Analysis · SHAP |
+| **Tools & Platforms** | Git · GitHub Pages · Jupyter · VS Code · Notion |
+| **Methodology** | Agile · Scrum · Requirements Gathering · Stakeholder Management |
 
 ---
 
-## Portfolio Projects
+## Portfolio — Live Interactive Dashboards
 
-### [🔗 Financial KPI Dashboard](https://mayankjoshiii.github.io/financial-kpi-dashboard/) &nbsp;·&nbsp; [Repo](https://github.com/mayankjoshiii/financial-kpi-dashboard)
-
-> **Excel (Advanced) · Python · Plotly.js · GitHub Pages**
-
-End-to-end financial dashboard built on UK retail sales data (ONS / Kaggle). Revenue vs budget vs forecast trend lines, gross margin & EBITDA tracking, P&L waterfall, Budget Variance RAG table, and regional heatmap — targeting finance-sector BA/DA roles.
+Every project is a self-contained, interactive dashboard. Click **Live Demo** to explore in your browser — no installation required.
 
 ---
 
-### [🔗 Customer Churn Prediction](https://mayankjoshiii.github.io/customer-churn-prediction/) &nbsp;·&nbsp; [Repo](https://github.com/mayankjoshiii/customer-churn-prediction)
+### AI & Machine Learning
 
-> **Python · SQL · scikit-learn · Plotly.js · GitHub Pages**
+<table>
+<tr>
+<td width="50%">
 
-ML pipeline on the Telco Churn dataset (7,043 records): SQL exploration, feature engineering, logistic regression + random forest (82% accuracy, AUC 0.86), and a live interactive dashboard. Top 3 churn drivers identified — projected £340K annual saving per 10K customers.
+#### ML Model Explainability & Monitoring
+SHAP-style feature explanations · Data drift detection (PSI) · Fairness analysis across demographic groups · Partial dependence plots · Interactive what-if simulator
+
+**Stack:** Plotly.js · JavaScript (ML from scratch)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=github&logoColor=white)](https://mayankjoshiii.github.io/ml-explainability-dashboard/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayankjoshiii/ml-explainability-dashboard)
+
+</td>
+<td width="50%">
+
+#### Customer Intelligence Platform
+K-Means clustering · RFM segmentation · Churn prediction · Cohort retention heatmaps · Sankey customer journey mapping · CLV analysis
+
+**Stack:** Plotly.js · JavaScript (K-Means, Logistic Regression from scratch)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=github&logoColor=white)](https://mayankjoshiii.github.io/customer-intelligence-dashboard/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayankjoshiii/customer-intelligence-dashboard)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### NLP Sentiment & Text Analytics
+Lexicon-based sentiment scoring (200+ word AFINN-style) · TF-IDF keyword extraction · Aspect-based sentiment heatmaps · Topic trend analysis · 5,000+ review corpus
+
+**Stack:** Plotly.js · JavaScript (NLP pipeline from scratch)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=github&logoColor=white)](https://mayankjoshiii.github.io/nlp-sentiment-dashboard/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayankjoshiii/nlp-sentiment-dashboard)
+
+</td>
+<td width="50%">
+
+#### RAG Pipeline Analytics & Knowledge Base
+Embedding space visualisation (t-SNE) · Retrieval quality heatmaps · Cosine similarity matrices · MCP integration tracking · Query performance analytics
+
+**Stack:** Plotly.js · JavaScript (vector operations from scratch)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=github&logoColor=white)](https://mayankjoshiii.github.io/rag-analytics-dashboard/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayankjoshiii/rag-analytics-dashboard)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### Customer Churn Prediction
+Full ML pipeline on Telco dataset (7,043 records) · SQL exploration · Feature engineering · Logistic regression + Random Forest (82% accuracy, AUC 0.86) · Top churn drivers identified
+
+**Stack:** Python · SQL · scikit-learn · Plotly.js
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=github&logoColor=white)](https://mayankjoshiii.github.io/customer-churn-prediction/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayankjoshiii/customer-churn-prediction)
+
+</td>
+<td width="50%">
+</td>
+</tr>
+</table>
 
 ---
 
-### [🔗 UK Job Market Analysis](https://mayankjoshiii.github.io/uk-job-market-analysis/) &nbsp;·&nbsp; [Repo](https://github.com/mayankjoshiii/uk-job-market-analysis)
+### Data Analytics & Business Intelligence
 
-> **Python · Web Scraping · Plotly.js · GitHub Pages**
+<table>
+<tr>
+<td width="50%">
 
-Scraped and analysed 5,000+ UK job listings to uncover demand trends for BA/DA roles — top skills, salary distributions by region, and remote vs hybrid hiring patterns. Interactive Plotly dashboard published via GitHub Pages.
+#### A/B Testing Analytics
+Statistical hypothesis testing (z-test, t-test) · Bayesian analysis · Sequential testing with stopping rules · Sample size calculator · Power analysis · Confidence intervals
+
+**Stack:** Plotly.js · JavaScript (statistics from scratch)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=github&logoColor=white)](https://mayankjoshiii.github.io/ab-testing-dashboard/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayankjoshiii/ab-testing-dashboard)
+
+</td>
+<td width="50%">
+
+#### Time-Series Forecasting
+Trend-seasonal decomposition · Multiple forecasting methods · Anomaly detection · Residual analysis · Interactive forecast horizon controls
+
+**Stack:** Plotly.js · JavaScript (forecasting algorithms from scratch)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=github&logoColor=white)](https://mayankjoshiii.github.io/timeseries-forecasting-dashboard/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayankjoshiii/timeseries-forecasting-dashboard)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### Real-Time Operations Analytics
+Live KPI ticker (2.5s refresh) · Geographic heatmap · System health monitor with threshold alerts · Conversion funnel · Hourly activity heatmap · Command-centre dark theme
+
+**Stack:** Plotly.js · JavaScript (real-time simulation engine)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=github&logoColor=white)](https://mayankjoshiii.github.io/realtime-operations-dashboard/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayankjoshiii/realtime-operations-dashboard)
+
+</td>
+<td width="50%">
+
+#### Financial KPI Dashboard
+Revenue vs Budget vs Forecast · Gross margin & EBITDA tracking · P&L waterfall · Budget variance RAG table · Regional heatmap · Built on UK retail data (ONS/Kaggle)
+
+**Stack:** Excel (Advanced) · Python · Plotly.js
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=github&logoColor=white)](https://mayankjoshiii.github.io/financial-kpi-dashboard/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayankjoshiii/financial-kpi-dashboard)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### UK Job Market Analysis
+5,000+ UK job listings scraped and analysed · Salary distributions by region · Top skills demand · Remote vs hybrid patterns · BA/DA market intelligence
+
+**Stack:** Python · BeautifulSoup · Plotly.js
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=github&logoColor=white)](https://mayankjoshiii.github.io/uk-job-market-analysis/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayankjoshiii/uk-job-market-analysis)
+
+</td>
+<td width="50%">
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Stats
+## What These Projects Demonstrate
+
+| Competency | Evidence |
+|---|---|
+| **Statistical Rigour** | Z-tests, t-tests, Bayesian inference, confidence intervals, power analysis (A/B Testing) |
+| **Machine Learning** | K-Means, Logistic Regression, Random Forest, PCA — implemented from scratch, not library calls |
+| **NLP** | Sentiment lexicons, TF-IDF, aspect-based analysis, topic extraction (NLP Dashboard) |
+| **AI Infrastructure** | RAG pipelines, embedding spaces, MCP integration, retrieval metrics (RAG Analytics) |
+| **Model Governance** | SHAP explanations, drift detection (PSI), fairness auditing (ML Explainability) |
+| **Real-Time Systems** | Live data simulation, streaming KPIs, threshold alerting (Operations Dashboard) |
+| **Financial Literacy** | P&L, EBITDA, budget variance, gross margin analysis (Financial KPI) |
+| **End-to-End Delivery** | Every project goes from raw data to deployed, interactive dashboard |
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayankjoshiii&show_icons=true&theme=default&hide_border=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayankjoshiii&show_icons=true&theme=default&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankjoshiii&layout=compact&hide_border=true)
 
 </div>
@@ -97,6 +206,11 @@ Scraped and analysed 5,000+ UK job listings to uncover demand trends for BA/DA r
 
 <div align="center">
 
-*Open to BA/DA roles — any industry, any location worldwide · Available immediately*
+**Open to Business Analyst & Data Analyst roles — any industry, any location worldwide**
+
+**Available immediately · UK-based · MSc Business Analytics (Distinction)**
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayankjoshi518/)
+[![Email](https://img.shields.io/badge/Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayankjoshi518@gmail.com)
 
 </div>
