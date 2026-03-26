@@ -15,7 +15,7 @@
 
 ## About Me
 
-MSc Business Analytics graduate (Distinction, Swansea University — January 2026) with 3+ years of industry experience in business analysis, data analytics, and process improvement. I combine strong financial literacy with hands-on data skills to turn complex datasets into clear business decisions.
+MSc Business Analytics graduate (Distinction, Swansea University — January 2026) with 4+ years of industry experience in business analysis, data analytics, and process improvement. I combine strong financial literacy with hands-on data skills to turn complex datasets into clear business decisions.
 
 - Skilled in **SQL, Python, Tableau, Plotly.js, Excel, and scikit-learn**
 - Background in **Enterprise Mobility, Financial Analysis, and Operations**
