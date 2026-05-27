@@ -78,11 +78,13 @@ Every project below has a **live interactive demo**. No installation. Click and 
 
 ---
 
-## GitHub Trophies
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mayankjoshiii&theme=darkhub&no-bg=true&no-frame=true&margin-w=6&margin-h=6&column=6" alt="GitHub Trophies" width="96%"/>
+<img src="https://streak-stats.demolab.com/?user=mayankjoshiii&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=0969da&fire=0969da&currStreakLabel=0969da" alt="GitHub Streak" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankjoshiii&theme=minimal&bg_color=ffffff&hide_border=true&color=0969da&line=0969da&point=0969da&area=true&area_color=dbeafe" alt="Contribution Graph" width="55%"/>
 
 </div>
 
