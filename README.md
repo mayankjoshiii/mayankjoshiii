@@ -86,7 +86,9 @@ Every project below has a **live interactive demo**. No installation. Click and 
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankjoshiii&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8&cache_seconds=86400" alt="Top Languages" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayankjoshiii&theme=github_dark" alt="Repos per Language" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mayankjoshiii&theme=github_dark" alt="Most Used Languages" height="160"/>
 
 </div>
 
