@@ -78,17 +78,11 @@ Every project below has a **live interactive demo**. No installation. Click and 
 
 ---
 
-## GitHub Stats
+## GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankjoshiii&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area_color=1f6feb" alt="Contribution Activity" width="96%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayankjoshiii&theme=github_dark" alt="Repos per Language" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mayankjoshiii&theme=github_dark" alt="Most Used Languages" height="160"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mayankjoshiii&theme=darkhub&no-bg=true&no-frame=true&margin-w=6&margin-h=6&column=6" alt="GitHub Trophies" width="96%"/>
 
 </div>
 
